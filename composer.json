@@ -1,0 +1,19 @@
+{
+  "name": "funcraft/masterpiece-migrations",
+  "description": "Masterpiece migrations",
+  "type": "library",
+  "keywords": ["masterpiece", "funcraft"],
+  "authors":[
+    {
+      "name": "Funcraft",
+      "email": "what4me@yandex.ru",
+      "homepage": "http://funcraft.ru",
+      "role": "developer"
+    }
+  ],
+  "autoload":{
+    "psr4":{
+      "funcraft\\masterpiece\\": ""
+    }
+  }
+}
